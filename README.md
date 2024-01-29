@@ -6,7 +6,7 @@ Automation Engineer | Robotics Student
 
 I'm a Robotics engineering student at Ecole Centrale de Nantes and University of Genoa.
 
-* 🌍  I'm based in Nantes, France
+* 🌍  I'm based in Antibes, France
 * ✉️  You can contact me at [raffipumpo01@gmail.com](mailto:raffipumpo01@gmail.com)
 
 ### Skills
