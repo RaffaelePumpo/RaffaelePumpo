@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)my name is Raffaele Pumpo
 ======================================================================================================================================
 
-Automation Engineer | Robotics Student
+Automation and Robotics Engineer 
 --------------------------------------
 
 I'm a Robotics engineering student at Ecole Centrale de Nantes and University of Genoa.
 
-* 🌍  I'm based in Antibes, France
+* 🌍  I'm based in Genoa, Italy
 * ✉️  You can contact me at [raffipumpo01@gmail.com](mailto:raffipumpo01@gmail.com)
 
 ### Skills
