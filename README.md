@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Automation and Robotics Engineer 
 --------------------------------------
 
-I'm a Robotics engineering student at Ecole Centrale de Nantes and University of Genoa.
+I'm a Robotics engineering working at Istituto Italiano di Tecnologia.
 
 * 🌍  I'm based in Genoa, Italy
 * ✉️  You can contact me at [raffipumpo01@gmail.com](mailto:raffipumpo01@gmail.com)
